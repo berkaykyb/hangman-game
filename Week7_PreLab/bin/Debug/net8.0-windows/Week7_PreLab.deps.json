@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Week7_PreLab/1.0.0": {
+        "runtime": {
+          "Week7_PreLab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week7_PreLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,130 @@
+celebrities|beyonce|Singer known for "Single Ladies"|Easy
+celebrities|messi|Famous footballer from Argentina|Easy
+celebrities|elon|Tesla and SpaceX CEO|Easy
+celebrities|taylor|Pop star who sang "Love Story"|Easy
+celebrities|rihanna|Singer and beauty brand owner|Easy
+celebrities|brad|Actor in "Fight Club"|Easy
+celebrities|adele|British singer with powerful voice|Medium
+celebrities|zuckerberg|Facebook founder|Medium
+celebrities|bts|Famous K-pop group|Medium
+celebrities|billie|Sings "Bad Guy"|Medium
+celebrities|drake|Rapper from Canada|Medium
+celebrities|eminem|Fast rapper from Detroit|Medium
+celebrities|rihanna|Barbadian pop star|Medium
+celebrities|ed|Singer of "Shape of You"|Medium
+celebrities|angelina|Actress in "Tomb Raider"|Hard
+celebrities|leonardo|Actor from "Titanic"|Hard
+celebrities|shakira|Hips don’t lie|Hard
+celebrities|cristiano|Famous Portuguese footballer|Hard
+celebrities|selena|Singer and actress|Hard
+celebrities|kanye|Controversial rapper|Hard
+
+
+science|atom|Smallest unit of matter|Easy
+science|gravity|Force that pulls things down|Easy
+science|photosynthesis|Plants make food using light|Easy
+science|evolution|Darwin’s theory of life|Easy
+science|oxygen|We breathe it|Easy
+science|neuron|Brain cell|Easy
+science|cell|Basic unit of life|Medium
+science|volcano|Mountain that erupts lava|Medium
+science|acid|Has low pH|Medium
+science|telescope|Used to see stars|Medium
+science|galaxy|Group of stars|Medium
+science|moon|Orbits the Earth|Medium
+science|dna|Genetic material|Medium
+science|bacteria|Tiny living organism|Hard
+science|planet|Orbits a star|Hard
+science|sun|Center of our solar system|Hard
+science|fossil|Old remains in rock|Hard
+science|magnet|Attracts iron|Hard
+science|robot|Machine that can move or think|Hard
+science|laser|Strong light beam|Hard
+
+
+sports|soccer|Played with a round ball|Easy
+sports|basketball|Ball and hoop game|Easy
+sports|tennis|Game with rackets and net|Easy
+sports|golf|Hit the ball into hole|Easy
+sports|boxing|Fight with gloves|Easy
+sports|swimming|Sport in the water|Easy
+sports|skiing|Slide on snow|Medium
+sports|cycling|Ride a bike|Medium
+sports|baseball|American bat-and-ball game|Medium
+sports|rugby|Rough ball game|Medium
+sports|karate|Martial art from Japan|Medium
+sports|running|Fast foot race|Medium
+sports|chess|Board game with kings|Medium
+sports|volleyball|Ball over net|Hard
+sports|hockey|Stick and puck game|Hard
+sports|gymnastics|Sport with flips|Hard
+sports|surfing|Ride the waves|Hard
+sports|cricket|Bat-and-ball British sport|Hard
+sports|skating|Slide on ice|Hard
+sports|archery|Bow and arrow sport|Hard
+
+
+math|addition|1 + 1|Easy
+math|subtraction|10 - 5|Easy
+math|multiplication|3 × 4|Easy
+math|division|12 ÷ 3|Easy
+math|fraction|Part of a whole|Easy
+math|decimal|Dot in a number|Easy
+math|geometry|Shapes and angles|Medium
+math|algebra|Math with letters|Medium
+math|equation|Math sentence|Medium
+math|angle|Formed by two lines|Medium
+math|circle|Round shape|Medium
+math|square|Four equal sides|Medium
+math|triangle|Three sides|Medium
+math|radius|Half of a circle’s width|Hard
+math|pi|3.14...|Hard
+math|graph|Picture of data|Hard
+math|mean|Average value|Hard
+math|percent|Out of 100|Hard
+math|prime|Number with two factors|Hard
+math|square root|What times itself?|Hard
+
+
+geography|africa|Second largest continent|Easy
+geography|asia|Biggest continent|Easy
+geography|europe|Contains France and Germany|Easy
+geography|amazon|Biggest rainforest|Easy
+geography|nile|Longest river|Easy
+geography|sahara|Big desert in Africa|Easy
+geography|mount everest|Tallest mountain|Medium
+geography|arctic|Very cold place|Medium
+geography|antarctica|Frozen continent|Medium
+geography|australia|Island continent|Medium
+geography|india|Taj Mahal’s country|Medium
+geography|canada|North of the USA|Medium
+geography|brazil|Famous for football and Rio|Medium
+geography|china|Most populated country|Hard
+geography|japan|Land of the rising sun|Hard
+geography|russia|Largest country|Hard
+geography|italy|Boot-shaped country|Hard
+geography|mexico|South of the US|Hard
+geography|egypt|Pyramids are here|Hard
+geography|turkey|Istanbul is here|Hard
+
+
+history|napoleon|French military leader|Easy
+history|cleopatra|Queen of Egypt|Easy
+history|hitler|German dictator in WWII|Easy
+history|washington|First US president|Easy
+history|lincoln|Freed the slaves|Easy
+history|gandhi|Led India’s freedom|Easy
+history|mandela|Fought apartheid in South Africa|Medium
+history|churchill|UK leader in WWII|Medium
+history|caesar|Roman emperor|Medium
+history|einstein|Theory of relativity|Medium
+history|columbus|Sailed in 1492|Medium
+history|shakespeare|Famous English writer|Medium
+history|martin luther king|Dream speech|Medium
+history|marie curie|Discovered radioactivity|Hard
+history|tesla|Inventor of AC current|Hard
+history|alexander|Great conqueror|Hard
+history|joan of arc|French heroine|Hard
+history|karl marx|Wrote about communism|Hard
+history|plato|Greek philosopher|Hard
+history|aristotle|Taught Alexander|Hard

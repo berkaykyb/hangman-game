@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berka\\OneDrive\\Desktop\\Week7_PreLabLast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{159792AD-E4A8-4EEC-B0AB-0A0767DEC8E7}|Week7_PreLab\\Week7_PreLab.csproj|c:\\users\\berka\\onedrive\\desktop\\week7_prelablast\\week7_prelab\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159792AD-E4A8-4EEC-B0AB-0A0767DEC8E7}|Week7_PreLab\\Week7_PreLab.csproj|solutionrelative:week7_prelab\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159792AD-E4A8-4EEC-B0AB-0A0767DEC8E7}|Week7_PreLab\\Week7_PreLab.csproj|C:\\Users\\berka\\OneDrive\\Desktop\\Week7_PreLabLast\\week7_prelab\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{159792AD-E4A8-4EEC-B0AB-0A0767DEC8E7}|Week7_PreLab\\Week7_PreLab.csproj|solutionrelative:week7_prelab\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159792AD-E4A8-4EEC-B0AB-0A0767DEC8E7}|Week7_PreLab\\Week7_PreLab.csproj|c:\\users\\berka\\onedrive\\desktop\\week7_prelablast\\week7_prelab\\questions.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{159792AD-E4A8-4EEC-B0AB-0A0767DEC8E7}|Week7_PreLab\\Week7_PreLab.csproj|solutionrelative:week7_prelab\\questions.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159792AD-E4A8-4EEC-B0AB-0A0767DEC8E7}|Week7_PreLab\\Week7_PreLab.csproj|C:\\Users\\berka\\OneDrive\\Desktop\\Week7_PreLabLast\\week7_prelab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{159792AD-E4A8-4EEC-B0AB-0A0767DEC8E7}|Week7_PreLab\\Week7_PreLab.csproj|solutionrelative:week7_prelab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159792AD-E4A8-4EEC-B0AB-0A0767DEC8E7}|Week7_PreLab\\Week7_PreLab.csproj|C:\\Users\\berka\\OneDrive\\Desktop\\Week7_PreLabLast\\week7_prelab\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{159792AD-E4A8-4EEC-B0AB-0A0767DEC8E7}|Week7_PreLab\\Week7_PreLab.csproj|solutionrelative:week7_prelab\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159792AD-E4A8-4EEC-B0AB-0A0767DEC8E7}|Week7_PreLab\\Week7_PreLab.csproj|c:\\users\\berka\\onedrive\\desktop\\week7_prelablast\\week7_prelab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159792AD-E4A8-4EEC-B0AB-0A0767DEC8E7}|Week7_PreLab\\Week7_PreLab.csproj|solutionrelative:week7_prelab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159792AD-E4A8-4EEC-B0AB-0A0767DEC8E7}|Week7_PreLab\\Week7_PreLab.csproj|c:\\users\\berka\\onedrive\\desktop\\week7_prelablast\\week7_prelab\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159792AD-E4A8-4EEC-B0AB-0A0767DEC8E7}|Week7_PreLab\\Week7_PreLab.csproj|solutionrelative:week7_prelab\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Desktop\\Week7_PreLabLast\\Week7_PreLab\\Form2.cs",
+              "RelativeDocumentMoniker": "Week7_PreLab\\Form2.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Desktop\\Week7_PreLabLast\\Week7_PreLab\\Form2.cs",
+              "RelativeToolTip": "Week7_PreLab\\Form2.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:10:36.34Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Desktop\\Week7_PreLabLast\\Week7_PreLab\\Settings.cs",
+              "RelativeDocumentMoniker": "Week7_PreLab\\Settings.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Desktop\\Week7_PreLabLast\\Week7_PreLab\\Settings.cs",
+              "RelativeToolTip": "Week7_PreLab\\Settings.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:03:46.52Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Desktop\\Week7_PreLabLast\\Week7_PreLab\\Form1.cs",
+              "RelativeDocumentMoniker": "Week7_PreLab\\Form1.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Desktop\\Week7_PreLabLast\\Week7_PreLab\\Form1.cs",
+              "RelativeToolTip": "Week7_PreLab\\Form1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwCwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:48:02.101Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "questions.txt",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Desktop\\Week7_PreLabLast\\Week7_PreLab\\questions.txt",
+              "RelativeDocumentMoniker": "Week7_PreLab\\questions.txt",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Desktop\\Week7_PreLabLast\\Week7_PreLab\\questions.txt",
+              "RelativeToolTip": "Week7_PreLab\\questions.txt",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAiwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-08T19:49:49.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Desktop\\Week7_PreLabLast\\Week7_PreLab\\Form1.cs",
+              "RelativeDocumentMoniker": "Week7_PreLab\\Form1.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Desktop\\Week7_PreLabLast\\Week7_PreLab\\Form1.cs [Design]",
+              "RelativeToolTip": "Week7_PreLab\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:10:24.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Settings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Desktop\\Week7_PreLabLast\\Week7_PreLab\\Settings.cs",
+              "RelativeDocumentMoniker": "Week7_PreLab\\Settings.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Desktop\\Week7_PreLabLast\\Week7_PreLab\\Settings.cs [Design]",
+              "RelativeToolTip": "Week7_PreLab\\Settings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:49:21.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Desktop\\Week7_PreLabLast\\Week7_PreLab\\Form2.cs",
+              "RelativeDocumentMoniker": "Week7_PreLab\\Form2.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Desktop\\Week7_PreLabLast\\Week7_PreLab\\Form2.cs [Design]",
+              "RelativeToolTip": "Week7_PreLab\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:40:04Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
