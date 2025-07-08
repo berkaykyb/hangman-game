@@ -1,0 +1,12 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.log
+*.pdb
+*.cache
+Thumbs.db
+ehthumbs.db
+*.exe
+*.dll
